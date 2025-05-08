@@ -8,7 +8,7 @@ En este laboratorio pondrás en práctica técnicas de exploración, fuerza brut
 - Ejecución de ataques de fuerza bruta
 - Escalada de privilegios en sistemas operativos Linux
 
-
+<how-to-start>
 ## 🌱 Cómo iniciar este laboratorio
 
 Sigue las siguientes instrucciones para comenzar:
@@ -17,7 +17,7 @@ Sigue las siguientes instrucciones para comenzar:
 2. **Importa la máquina** en tu gestor de virtualización preferido (VirtualBox, VMware, etc.).
 3. Una vez iniciada la máquina, ¡ya puedes comenzar con el laboratorio!
 
-
+</how-to-start>
 
 ## 📄 Instrucciones
 
